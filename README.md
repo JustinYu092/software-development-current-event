@@ -16,7 +16,7 @@ This project explores a recent or ongoing current event related to **software de
 | Name | Student Number | Role / Contribution |
 |------|----------------|---------------------|
 | Kyeongjun Yu | 120742267 | Research / Slides |
-| [Member 2] | [Student Number] | Script / Content |
+| Ryan Klusacek | 117598268 | Script / Content |
 | [Member 3] | [Student Number] | Slides / Visuals |
 | [Member 4] | [Student Number] | Video / Editing |
 
