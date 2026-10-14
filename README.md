@@ -17,7 +17,7 @@ This project explores a recent or ongoing current event related to **software de
 |------|----------------|---------------------|
 | Kyeongjun Yu | 120742267 | Research / Slides |
 | Ryan Klusacek | 117598268 | Script / Content |
-| [Member 3] | [Student Number] | Slides / Visuals |
+| ByeongHak Lee | 134807221 | Slides / Visuals |
 | [Member 4] | [Student Number] | Video / Editing |
 
 > Roles may overlap. All team members contribute through GitHub Issues, branches, commits, Pull Requests, reviews, and Discussions.
