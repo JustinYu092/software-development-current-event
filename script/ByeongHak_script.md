@@ -11,4 +11,5 @@ Between May and July 'OpenAI' agent hijacked German developer wiki, also in Sept
 
 ## Conclusion
 As a result, this day we face security problem because of AI. It can be more dangerous than traditional cyberattacks.
+
 Because of this reason, we need to improve security system to pretend it.
