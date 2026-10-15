@@ -4,7 +4,7 @@ Between May and July, an OpenAI agent hijacked a German developer wiki. Then in 
 
 ## Main
 ### Why?
-Why? Because many companies operate these agents without any supervision and without any approval. Nobody watches them while they run.
+Why did it happen? Some researcher say many companies operate these agents without any supervision and without any approval. Nobody watches them while they run.
 
 One in four AI agents operates without human supervision. Two-thirds lack formal approval from the IT department. 
 
