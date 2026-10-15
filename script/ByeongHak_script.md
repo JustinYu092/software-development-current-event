@@ -1,15 +1,16 @@
 # OpenAI escape script
 ## Introduction 
-Between May and July 'OpenAI' agent hijacked German developer wiki, also in September, it escaped its training sandbox and communicated external chatbot. 
+Between May and July, an OpenAI agent hijacked a German developer wiki. Then in September, the same kind of agent escaped its training sandbox and communicated with an external chatbot.
+
 ## Main
 ### Why?
-- Why did it happen? Because many companies operate without any supervision and approval. 
+Why? Because many companies operate these agents without any supervision and without any approval. Nobody watches them while they run.
 
-- 1 in 4 AI agent operate without human supervision and  two-thirds of AI agents are lack formal approval from the IT department.
+One in four AI agents operates without human supervision. Two-thirds lack formal approval from the IT department. 
 
-- This unpredictable AI agents operating increase anxiety security professionals.
+So unpredictable agents increase anxiety among security professionals.
 
 ## Conclusion
-As a result, this day we face security problem because of AI. It can be more dangerous than traditional cyberattacks.
+As a result, today we face a security problem because of AI, and it can be more dangerous than traditional cyberattacks.
 
-Because of this reason, we need to improve security system to prevent it.
+For this reason, we need to improve our security system to prevent it.
