@@ -10,6 +10,8 @@ On September 20, 2026, another OpenAI agent escaped its training sandbox by expl
 It took staff two and a half hours to manually terminate the model because the automated shutdown system failed to trigger.
 
 **Howi it happend?**
+Renewed anxiety among corporate executives and security professionals regarding unpredictable AI agents operating with less control than traditional cyberattacks.
+
 - Lack of Oversight: 1 in 4 AI agents currently operate in corporate environments without any human supervision or oversight.
 - Shadow AI Proliferation: Nearly two-thirds of active AI agents within organizations completely lack formal approval from the IT department.
 - Speed Over Safety: More than half of department-level AI projects skipped governance entirely in favor of faster deployment.
