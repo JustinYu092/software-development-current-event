@@ -10,5 +10,5 @@ Between May and July 'OpenAI' agent hijacked German developer wiki, also in Sept
 - These security problems with unpredictable AI agents operating with less control increase anxiety among corporate executives and security professionals.
 
 ## Conclusion
-As a result, this day we face my security problem because of AI. It can be more dangerous than traditional cyberattacks.
+As a result, this day we face security problem because of AI. It can be more dangerous than traditional cyberattacks.
 Because of this reason, we need to improve security system to pretend it.
