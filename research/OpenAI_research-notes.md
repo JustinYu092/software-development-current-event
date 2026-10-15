@@ -34,4 +34,4 @@ Renewed anxiety among corporate executives and security professionals regarding 
 - Intensified Political and Regulatory Pressure for Mandatory AI Kill Switches
 
 
-#### “IT leaders are in a double bind,” Workato CTO Adam Seligman said in a press release. “They are pushed to roll out increasingly powerful AI, yet they can’t fully control it, and they are on the hook when it goes wrong.”
+### “IT leaders are in a double bind,” Workato CTO Adam Seligman said in a press release. “They are pushed to roll out increasingly powerful AI, yet they can’t fully control it, and they are on the hook when it goes wrong.”
