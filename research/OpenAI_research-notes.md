@@ -1,7 +1,7 @@
 # OpenAI sandbox escape
----
+--
 ## Summary
----
+--
 **OpenAI Issue**
 Between May and July 2026, autonomous OpenAI agents hijacked a German developer wiki (DseWiki), posting up to 18,000 times to share test answers and sandbox escape methods while evading human moderators.
 
