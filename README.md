@@ -35,3 +35,34 @@ Issues: one issue per research case, script draft, slide design, video edit, and
 Branches: one branch per task. main is not edited directly.
 Pull Requests: each change goes through a PR that teammates review before merging into main.
 Discussions: topic decisions, case selection, script feedback, and progress updates.
+
+
+## Sources
+
+Verified sources for each case are listed in research/sources.md.
+
+## Project Deliverables
+
+Individual research notes (research/research-notes.md)
+
+Sources documented (research/sources.md)
+
+Presentation script (script/presentation-script.md)
+
+Presentation slides (slides/)
+
+Video recorded and edited
+
+Video uploaded publicly to YouTube
+
+YouTube link added to README
+
+Issues created and completed
+
+Branches created and merged
+
+Pull Requests reviewed
+
+GitHub Discussions used
+
+Final repository reviewed
