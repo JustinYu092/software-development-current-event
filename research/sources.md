@@ -1,4 +1,4 @@
-# Gemini Esacpe Sources:
+# Gemini Escape Sources:
 
 ## 1. Technical & Threat Intelligence Foundations
 
