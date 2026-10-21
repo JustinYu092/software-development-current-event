@@ -13,15 +13,17 @@ AI coding agents now run terminal commands, edit files, and interact with Git an
 |------|----------------|-----------------------|
 | Kyeongjun Yu | 120742267 | Research: Claude Code sandbox escapes / Slides |
 | Ryan Klusacek | 117598268 | Research: Gemini sandbox escape / Script / Content |
-| ByeongHak Lee | 134807221 | Research: [case to be confirmed] / Slides / Visuals |
+| ByeongHak Lee | 134807221 | Research: OpenAI / Slides / Visuals |
 
 Roles may overlap. Every member contributes through GitHub Issues, branches, commits, Pull Requests, reviews, and Discussions.
 
 ## Video Presentation
 
-YouTube Video: [Public YouTube link will be added here]
+YouTube Video: https://www.youtube.com/watch?v=ayvV9KyTVA8
 
-Duration: 2:30–3:00 minutes
+Desired Duration: 2:30–3:00 minutes
+
+Actual Durtion: 3:03 minutes
 
 ## Repository Structure
 
@@ -57,15 +59,15 @@ Verified sources for each case are listed in `research/sources.md`.
 
 ## Project Deliverables
 
-- [ ] Individual research notes (`research/research-notes.md`)
-- [ ] Sources documented (`research/sources.md`)
-- [ ] Presentation script (`script/presentation-script.md`)
-- [ ] Presentation slides (`slides/`)
-- [ ] Video recorded and edited
-- [ ] Video uploaded publicly to YouTube
-- [ ] YouTube link added to README
+- [x] Individual research notes (`research/research-notes.md`)
+- [x] Sources documented (`research/sources.md`)
+- [x] Presentation script (`script/presentation-script.md`)
+- [x] Presentation slides (`slides/`)
+- [x] Video recorded and edited
+- [x] Video uploaded publicly to YouTube
+- [x] YouTube link added to README
 - [ ] Issues created and completed
-- [ ] Branches created and merged
-- [ ] Pull Requests reviewed
-- [ ] GitHub Discussions used
+- [x] Branches created and merged
+- [x] Pull Requests reviewed
+- [x] GitHub Discussions used
 - [ ] Final repository reviewed
