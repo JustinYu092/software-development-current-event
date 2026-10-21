@@ -53,8 +53,8 @@ Verified sources for each case are listed in research/sources.md.
 - [x] Video recorded and edited
 - [x] Video uploaded publicly to YouTube
 - [x] YouTube link added to README
-- [ ] Issues created and completed
+- [x] Issues created and completed
 - [x] Branches created and merged
 - [x] Pull Requests reviewed
 - [x] GitHub Discussions used
-- [ ] Final repository reviewed
+- [x] Final repository reviewed
