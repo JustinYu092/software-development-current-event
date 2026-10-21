@@ -23,12 +23,12 @@ YouTube Video: https://www.youtube.com/watch?v=ayvV9KyTVA8
 
 Desired Duration: 2:30–3:00 minutes
 
-Actual Durtion: 3:03 minutes
+Actual Duration: 3:03 minutes
 
 ## Repository Structure
 
 research/ holds individual research notes and verified sources.
-script/ holds the presentation script.
+script/ holds the individual presentation scripts.
 slides/ holds the presentation slides.
 media/ holds images, screenshots, and other media assets.
 
@@ -42,12 +42,12 @@ Discussions: topic decisions, case selection, script feedback, and progress upda
 
 ## Sources
 
-Verified sources for each case are listed in research/sources.md.
+Verified sources for each case are listed in the research/ folder.
 
 ## Project Deliverables
 
-- [x] Individual research notes (`research/research-notes.md`)
-- [x] Sources documented (`research/sources.md`)
+- [x] Individual research notes (research/)
+- [x] Sources documented (research/)
 - [x] Presentation slides (`slides/`)
 - [x] Video recorded and edited
 - [x] Video uploaded publicly to YouTube
