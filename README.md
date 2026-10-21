@@ -48,7 +48,6 @@ Verified sources for each case are listed in research/sources.md.
 
 - [x] Individual research notes (`research/research-notes.md`)
 - [x] Sources documented (`research/sources.md`)
-- [x] Presentation script (`script/presentation-script.md`)
 - [x] Presentation slides (`slides/`)
 - [x] Video recorded and edited
 - [x] Video uploaded publicly to YouTube
